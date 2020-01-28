@@ -1,0 +1,2 @@
+# nomaCakes-UI
+This is a small web app for a cake business, nomaCakes.co that allows customers to lookup their best and desired cakes made by the company and purchase them, rate them, save them to a cart and review them.
