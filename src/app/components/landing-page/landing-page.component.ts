@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LandingPageComponent implements OnInit {
 
+  title = 'nomaCakes-UI';
+
   constructor() { }
 
   ngOnInit() {
